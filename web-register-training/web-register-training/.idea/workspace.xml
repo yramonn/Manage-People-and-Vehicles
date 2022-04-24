@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web-register-training:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f61ab4ac-550e-48a5-b563-b5395b518ac4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BancoProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BancoProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BancoProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BancoProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BancoProject/BancoProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BancoProject/src/com/banco/ContaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioArquivos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioArquivos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioArquivos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioArquivos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioArquivos/DesafioArquivos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioArquivos/src/Java.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioArquivos/src/com/sovos/ManipularArquivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioArquivos/src/com/sovos/main/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioJavaArray/DesafioJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioJavaArray/DesafioJava001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioJavaCalculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioJavaCalculator/JavaTraining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesafioJavaList/DesafioJava002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Eletroeletronicos/Eletroeletronicos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employee/Employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employee/src/com/sovos/abs/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employee/src/com/sovos/main/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employee/src/com/sovos/salary/Chefe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employee/src/com/sovos/salary/PorComissao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employee/src/com/sovos/salary/PorHora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Employee/src/com/sovos/salary/PorItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstrutruraRepeticao/src/main/java/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstrutruraRepeticao/src/main/java/repeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FiguraGeometrica/FiguraGeometrica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FiguraGeometrica/src/com/sovos/figurageometrica/figuras/Cilindro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FiguraGeometrica/src/com/sovos/figurageometrica/figuras/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FiguraGeometrica/src/com/sovos/figurageometrica/figuras/Ponto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FiguraGeometrica/src/com/sovos/figurageometrica/figuras/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FiguraGeometrica/src/com/sovos/figurageometrica/figuras/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FiguraGeometrica/src/com/sovos/figurageometrica/interfaces/FiguraGeometricaDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FiguraGeometrica/src/com/sovos/figurageometrica/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/.idea/libraries/auxiliary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/ManipularExcel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/src/com/sovos/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/src/com/sovos/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel/src/com/sovos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel2/ManipularExcel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ManipularExcel2/src/com/sovos/SelectNotaFiscal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/BancoDesafioDIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/src/com/sovos/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/src/com/sovos/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/src/com/sovos/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/src/com/sovos/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/src/com/sovos/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/src/com/sovos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StudyJava/src/com/sovos/Operacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/Cadastro_de_Pessoas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/Training 07.03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/src/com/sovos/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/src/com/sovos/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/src/com/sovos/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/src/com/sovos/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/src/com/sovos/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/src/java/polimorfismo/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/src/java/polimorfismo/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Training 07.03/src/java/polimorfismo/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/.idea/libraries/poi_bin_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/JavaSQL/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/TreinamentoBD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/src/main/java/com/sovos/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/src/main/java/com/sovos/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/src/main/java/com/sovos/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/src/main/java/com/sovos/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/src/main/java/com/sovos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TreinamentoBD/src/main/java/com/sovos/ManipularExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/java/com/spring/blog/configuration/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/java/com/spring/blog/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/java/com/spring/blog/geradorbd/DummyData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/java/com/spring/blog/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/java/com/spring/blog/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/java/com/spring/blog/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/java/com/spring/blog/service/serviceImpl/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/resources/templates/mensagemValidacao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/resources/templates/postDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/resources/templates/postForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codeblog/codeblog/src/main/resources/templates/posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/src/main/java/com/sovos/dataregister/DataRegisterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/src/main/java/com/sovos/dataregister/controller/PessoaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/src/main/java/com/sovos/dataregister/entity/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/src/main/java/com/sovos/dataregister/repository/PessoaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-register/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/src/main/java/com/sovos/dataveiculos/DataVeiculosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/src/main/java/com/sovos/dataveiculos/controller/VeiculosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/src/main/java/com/sovos/dataveiculos/entity/Veiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/src/main/java/com/sovos/dataveiculos/repository/VeiculosRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data-veiculos/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/src/main/java/com/sovos/parkingcontrol/ParkingControlApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/src/main/java/com/sovos/parkingcontrol/controllers/ParkingSpotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/src/main/java/com/sovos/parkingcontrol/dtos/ParkingSpotDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/src/main/java/com/sovos/parkingcontrol/models/ParkingSpotModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/src/main/java/com/sovos/parkingcontrol/repositories/ParkingSpotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/src/main/java/com/sovos/parkingcontrol/services/ParkingSpotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../parking-control/src/test/java/com/sovos/parkingcontrol/ParkingControlApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/.idea/artifacts/web_register_training.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/.idea/web-register-training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/java/com/sovos/model/dto/PessoaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/java/com/sovos/model/response/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/java/com/sovos/service/PessoaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/java/com/sovos/web/PessoaServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/resources/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/webapp/pessoa/alter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/webapp/pessoa/ctrl.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/src/main/webapp/pessoa/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/classes/com/sovos/model/dto/PessoaDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/classes/com/sovos/model/response/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/classes/com/sovos/service/PessoaService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/classes/com/sovos/service/PessoaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/classes/com/sovos/web/PessoaServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/classes/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/classes/com/sovos/model/dto/PessoaDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/classes/com/sovos/model/response/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/classes/com/sovos/service/PessoaService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/classes/com/sovos/service/PessoaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/classes/com/sovos/web/PessoaServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/classes/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/lib/httpclient-4.5.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/lib/httpcore-4.4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/pessoa/alter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/pessoa/ctrl.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register-training/pessoa/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/classes/com/sovos/model/dto/PessoaDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/classes/com/sovos/model/response/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/classes/com/sovos/service/PessoaService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/classes/com/sovos/service/PessoaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/classes/com/sovos/web/PessoaServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/classes/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/lib/httpclient-4.5.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/lib/httpcore-4.4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/pessoa/alter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/pessoa/crtl.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/pessoa/ctrl.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register-training-backup/web-register-training-backup/target/web-register/pessoa/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sovos/model/dto/PessoaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sovos/model/dto/VeiculosDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sovos/model/response/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sovos/model/response/Veiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sovos/service/PessoaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sovos/service/VeiculosService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sovos/web/PessoaServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sovos/web/VeiculosServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Veiculos/alterV.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Veiculos/newV.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Veiculos/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pessoa/alter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pessoa/ctrl.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pessoa/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/Tomcat_8_5_77.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/0/2/028067e61ea474acd8f7a47e9552c913eeead1a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/2/0/202b337e145f49fe9f544da397c8c6c7eea81ee8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/3/6/36a5ee984a049483c86973b0a22443c334013e4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/6/4/647567f7f0366f3fc74edc20cb3b6966b163d715" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/6/e/6e5895e6673bdf343619fd6db1241cbab97a8a2e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/c/c/cc950f51540ec4e516845fc8931bfa87731a4bd9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/c/d/cdbd36de33124fa7af5475a68b419ded498e73b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/java/com/sovos/model/dto/PessoaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/java/com/sovos/model/response/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/java/com/sovos/service/PessoaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/java/com/sovos/web/PessoaServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/resources/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/webapp/pessoa/alter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/webapp/pessoa/ctrl.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/src/main/webapp/pessoa/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/classes/com/sovos/model/dto/PessoaDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/classes/com/sovos/model/response/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/classes/com/sovos/service/PessoaService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/classes/com/sovos/service/PessoaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/classes/com/sovos/web/PessoaServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/classes/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/classes/com/sovos/model/dto/PessoaDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/classes/com/sovos/model/response/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/classes/com/sovos/service/PessoaService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/classes/com/sovos/service/PessoaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/classes/com/sovos/web/PessoaServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/classes/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/lib/httpclient-4.5.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/lib/httpcore-4.4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/pessoa/alter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/pessoa/crtl.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web-register/target/web-register/pessoa/ctrl.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTraining.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/sovos/calculadora/main/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/sovos/calculadora/main/divisao/Divide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/sovos/calculadora/main/multiplicacao/Multiplica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/sovos/calculadora/main/soma/Soma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/sovos/calculadora/main/subtracao/Subtrai.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27nnOBGR5ytTmSNem5XrVFmKOHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../data-veiculos" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.77" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.77" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:9191/web-register-training" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web-register-training:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/web-register-training" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="5a05bb3b-02b9-4b1b-abc7-8e8fcced7d6b" />
+        <option name="HTTP_PORT" value="9191" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52204" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web-register-training:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f61ab4ac-550e-48a5-b563-b5395b518ac4" name="Changes" comment="" />
+      <created>1649964683453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649964683453</updated>
+      <workItem from="1649964684904" duration="1621000" />
+      <workItem from="1650135715329" duration="467000" />
+      <workItem from="1650756196731" duration="314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
